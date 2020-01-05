@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#349FE7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#349FE7</color>
+    <color name="background">#FFFF</color>
+
+    <color name="editFild">#DBD8D8</color>
+
+    <color name="contactList">#349FE7</color>
+    <color name="addcontact">#79CC00</color>
+
+    <color name="itemcolor">#EEEEEE</color>
+
+</resources>
